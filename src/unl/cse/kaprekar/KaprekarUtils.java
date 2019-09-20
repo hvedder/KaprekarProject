@@ -1,7 +1,6 @@
 package unl.cse.kaprekar;
 
 public class KaprekarUtils {
-	
 	/**
 	 * <p>This method tests whether the given input <code>n</code>
 	 * is a Kaprekar Number or not.  A Kaprekar Number is a non-negative
@@ -38,7 +37,7 @@ public class KaprekarUtils {
 			first = square / modulus;
 			second = square % modulus;
 			if(first > 0 &&
-			   first + second = n) {
+			   first + second == n) {
 				return true;
 			}
 		}
