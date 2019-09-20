@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/Users/huntervedder/Documents/GitHub/KaprekarProject/.metadata/.plugins/org.eclipse.jdt.core
+131655346.index
+4115097154.index
+3128207647.index
+3535632346.index
